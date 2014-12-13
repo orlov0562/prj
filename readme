@@ -1,3 +1,16 @@
 Project manager v.2
 
-I'm use this set of scripts to do simple operations from cli
+I'm using this set of scripts to do simple operations from cli.
+
+For example, I can:
+- open project folder (command: prj open project-name)
+- change current directory in shell  (command: prj cd project-name)
+- detect my external ip (command: prj ip) 
+- calculate md5 hash from string (command: prj md5 string) 
+- open php/google/mysql search (command: find [word1] [word2] ..  php!)
+and other..
+
+So, it's something like shortcuts but with some additional functionality.
+
+It's not a "world change" project, but I found that it very useful for me, 
+so I share it on Github to have opportunity to get it in any place.
